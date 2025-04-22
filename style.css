@@ -1,0 +1,23 @@
+p{
+  background-color: rgb(255, 228, 196);
+  margin: 10px;
+  padding: 10px;
+  color: black;
+}
+body{
+  background-color: antiquewhite;
+  text-align: center;
+  font-size: x-large;
+  background-image: url();
+  
+}
+.list{
+  background-color: rgba(255, 228, 196);
+  margin: 10px;
+  padding: 10px;
+  color: black;
+}
+img{
+  border-radius: 30px;
+  padding-right: 10px;
+}
